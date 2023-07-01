@@ -10,25 +10,30 @@ Make sure you have Python installed on your system (version 3.7 or higher).
 Don't forget about creating a virtual environment
 
 Type this in the command prompt 
-<span style="color: green;">python -m venv myprojectname</span>
+
+```shell
+python -m venv myprojectname
+```
 
 activate in windows 
 
 
-```python
-def calculate_sum(a, b):
-    # Calculate the sum of two numbers
-    return a + b
 
+
+```shell
+myprojectname/Scripts/activate
 ```
-
-<span style="color: green;">myprojectname/Scripts/activate</span>
 
 
 Install the required libraries by running the following command in your terminal or command prompt:
-<span style="color: green;">pip install PySide6</span>
 
-<span style="color: green;">pip install wonderwords</span>
+```shell
+pip install PySide6
+```
+
+```shell
+pip install wonderwords
+```
 
 Download the Code:
 
@@ -39,6 +44,6 @@ Launch the Application:
 
 Open a terminal or command prompt and navigate to the directory where you saved the source code files.
 Run the following command to start the application:
-
+```shell
 python typingSpeedApp.py
-
+```
