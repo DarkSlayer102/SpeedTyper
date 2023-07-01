@@ -14,6 +14,14 @@ Type this in the command prompt
 
 activate in windows 
 
+
+```python
+def calculate_sum(a, b):
+    # Calculate the sum of two numbers
+    return a + b
+
+```
+
 <span style="color: green;">myprojectname/Scripts/activate</span>
 
 
