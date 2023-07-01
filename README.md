@@ -11,10 +11,15 @@ Don't forget about creating a virtual environment
 
 Type this in the command prompt 
 <span style="color: green;">python -m venv myprojectname</span>
+
 activate in windows 
+
 <span style="color: green;">myprojectname/Scripts/activate</span>
+
+
 Install the required libraries by running the following command in your terminal or command prompt:
 <span style="color: green;">pip install PySide6</span>
+
 <span style="color: green;">pip install wonderwords</span>
 
 Download the Code:
