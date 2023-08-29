@@ -1,4 +1,8 @@
 
+
+
+#required libraries 
+
 from wonderwords import RandomWord, RandomSentence
 import time
 
